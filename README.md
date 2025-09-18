@@ -1,3 +1,3 @@
 # SMIT-1
-My first repository
-by faisal
+My first repository <br>
+AUTHOR:faisal
